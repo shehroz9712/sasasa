@@ -21,10 +21,6 @@
       <i class="fa-solid fa-car-side icon"></i>
       <input type="text" class="form-control" placeholder="Model" name="service" minlength="1" maxlength="30">
     </div>
-    <div class="mb-3 form-group">
-      <i class="fa-solid fa-hashtag icon"></i>
-      <input type="text" class="form-control" placeholder="Plate No#" name="Plate-No" minlength="4" maxlength="15">
-    </div>
 
     <div class="mb-3 form-group">
       <i class="fa-solid fa-tools icon"></i>
@@ -35,7 +31,6 @@
         <option value="Car-Wrapping">Car Wrapping</option>
         <option value="Ceramic">Ceramic</option>
         <option value="Chinese-Car">Chinese Car</option>
-        <option value="Electric-Car">Electric Car</option>
         <option value="Electric-Repair">Electric Repair</option>
         <option value="Extended-Warranty">Extended Warranty</option>
         <option value="General-Repair">General Repair</option>
@@ -44,6 +39,7 @@
         <option value="Plate-Number">Plate Number</option>
         <option value="Road-Side-Assistance">Road Side Assistance</option>
         <option value="Tinting">Tinting</option>
+        <option value="Tinting">Others</option>
       </select>
       <span style="color: red;" id="serviceError"></span>
     </div>

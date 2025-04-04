@@ -42,7 +42,7 @@
 <section class="container">
     <div class="row h-100">
         <div class="col-md-6 my-auto">
-            <img src="assets/img/road-side-roadside-tracks.png" alt="" class="img-fluid" loading="lazy">
+            <img src="assets/img/road-side-roadside-tracks-check.png" alt="" class="img-fluid " loading="lazy" style="mix-blend-mode: multiply;">
         </div>
         <div class="col-md-6 d-flex flex-column justify-content-center gap-3">
             <span class="d-flex flex-column gap-2">
@@ -177,4 +177,4 @@
 
 <!-- sticky-icons Section End -->
 
-<?php include('f.php'); ?>
+<?php include('f-new.php'); ?>

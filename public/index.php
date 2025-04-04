@@ -100,115 +100,114 @@
           <div class="px-3 row row-cols-2 row-cols-md-3">
             <div class="card bg-transparent index-hero-right-services-box-animation ">
               <a href="./general-repair.php" class="text-black w-100 h-100">
-                <div class="align-items-center d-flex flex-column py-3 rounded-4 shadow text-center index-hero-right-services-box-shadow-animation index-hero-right-services-box-height-responsive">
+                <div class="align-items-center d-flex flex-column index-hero-right-services-box-height-responsive index-hero-right-services-box-shadow-animation index-hero-right-services-box-bg  text-center ">
                   <div class=" index-service-img-width-height-responsive">
-                    <span class="index-service-img-width-height-responsive index-service-img-width-height-responsive-1"></span>
+                    <span class="index-service-img-width-height-responsive index-service-img-width-height-responsive-6"></span>
                   </div>
                   <div class="align-items-center card-body d-flex justify-content-center m-0 p-0 py-3">
-                    <h5 class="card-title fs-5 fw-bold m-0 px-2">Mechanical Repair</h5>
+                    <h5 class="card-title fs-5 fw-normal m-0 px-2">Mechanical Repair</h5>
                   </div>
                 </div>
               </a>
             </div>
             <div class="card bg-transparent index-hero-right-services-box-animation ">
               <a href="./electric-repair.php" class="text-black w-100 h-100">
-                <div class="align-items-center d-flex flex-column py-3 rounded-4 shadow text-center index-hero-right-services-box-shadow-animation index-hero-right-services-box-height-responsive">
+                <div class="align-items-center d-flex flex-column index-hero-right-services-box-height-responsive index-hero-right-services-box-shadow-animation index-hero-right-services-box-bg  text-center ">
                   <div class=" index-service-img-width-height-responsive">
                     <span class="index-service-img-width-height-responsive index-service-img-width-height-responsive-2"></span>
                   </div>
                   <div class="align-items-center card-body d-flex justify-content-center m-0 p-0 py-3">
-                    <h5 class="card-title fs-5 fw-bold m-0 px-2">Electrical Repair</h5>
+                    <h5 class="card-title fs-5 fw-normal m-0 px-2">Electrical Repair</h5>
                   </div>
                 </div>
               </a>
             </div>
             <div class="card bg-transparent index-hero-right-services-box-animation ">
               <a href="./body-shop.php" class="text-black w-100 h-100">
-                <div class="align-items-center d-flex flex-column py-3 rounded-4 shadow text-center index-hero-right-services-box-shadow-animation index-hero-right-services-box-height-responsive">
+                <div class="align-items-center d-flex flex-column index-hero-right-services-box-height-responsive index-hero-right-services-box-shadow-animation index-hero-right-services-box-bg text-center ">
+                  <div class=" index-service-img-width-height-responsive">
+                    <span class="index-service-img-width-height-responsive index-service-img-width-height-responsive-1"></span>
+                  </div>
+                  <div class="align-items-center card-body d-flex justify-content-center m-0 p-0 py-3">
+                    <h5 class="card-title fs-5 fw-normal m-0 px-2">Bodyshop</h5>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="card bg-transparent index-hero-right-services-box-animation py-4">
+              <a href="./electric-repair.php" class="text-black w-100 h-100">
+                <div class="align-items-center d-flex flex-column index-hero-right-services-box-height-responsive index-hero-right-services-box-shadow-animation index-hero-right-services-box-bg text-center ">
                   <div class=" index-service-img-width-height-responsive">
                     <span class="index-service-img-width-height-responsive index-service-img-width-height-responsive-3"></span>
                   </div>
                   <div class="align-items-center card-body d-flex justify-content-center m-0 p-0 py-3">
-                    <h5 class="card-title fs-5 fw-bold m-0 px-2">Bodyshop</h5>
+                    <h5 class="card-title fs-5 fw-normal m-0 px-2">Electric Car Repair</h5>
                   </div>
                 </div>
               </a>
             </div>
             <div class="card bg-transparent index-hero-right-services-box-animation py-4">
               <a href="./major-minor-service.php" class="text-black w-100 h-100">
-                <div class="align-items-center d-flex flex-column py-3 rounded-4 shadow text-center index-hero-right-services-box-shadow-animation index-hero-right-services-box-height-responsive">
+                <div class="align-items-center d-flex flex-column index-hero-right-services-box-height-responsive index-hero-right-services-box-shadow-animation index-hero-right-services-box-bg index-hero-right-services-box-radius  text-center ">
                   <div class=" index-service-img-width-height-responsive">
                     <span class="index-service-img-width-height-responsive index-service-img-width-height-responsive-5"></span>
                   </div>
                   <div class="align-items-center card-body d-flex justify-content-center m-0 p-0 py-3">
-                    <h5 class="card-title fs-5 fw-bold m-0 px-2">Major & Minor Service</h5>
+                    <h5 class="card-title fs-5 fw-normal m-0 px-2">Major & Minor Service</h5>
                   </div>
                 </div>
               </a>
             </div>
             <div class="card bg-transparent index-hero-right-services-box-animation py-4">
-              <a href="./european-cars.php" class="text-black w-100 h-100">
-                <div class="align-items-center d-flex flex-column py-3 rounded-4 shadow text-center index-hero-right-services-box-shadow-animation index-hero-right-services-box-height-responsive">
+              <a href="./general-repair.php" class="text-black w-100 h-100">
+                <div class="align-items-center d-flex flex-column index-hero-right-services-box-height-responsive index-hero-right-services-box-shadow-animation index-hero-right-services-box-bg  index-hero-right-services-box-radius text-center ">
                   <div class=" index-service-img-width-height-responsive">
                     <span class="index-service-img-width-height-responsive index-service-img-width-height-responsive-4"></span>
                   </div>
                   <div class="align-items-center card-body d-flex justify-content-center m-0 p-0 py-3">
-                    <h5 class="card-title fs-5 fw-bold m-0 px-2">European Cars</h5>
-                  </div>
-                </div>
-              </a>
-            </div>
-
-            <div class="card bg-transparent index-hero-right-services-box-animation py-4">
-              <a href="./german-cars.php" class="text-black w-100 h-100">
-                <div class="align-items-center d-flex flex-column py-3 rounded-4 shadow text-center index-hero-right-services-box-shadow-animation index-hero-right-services-box-height-responsive">
-                  <div class=" index-service-img-width-height-responsive">
-                    <span class="index-service-img-width-height-responsive index-service-img-width-height-responsive-9"></span>
-                  </div>
-                  <div class="align-items-center card-body d-flex justify-content-center m-0 p-0 py-3">
-                    <h5 class="card-title fs-5 fw-bold m-0 px-2">German Cars</h5>
+                    <h5 class="card-title fs-5 fw-normal m-0 px-2">Software Repair & Update</h5>
                   </div>
                 </div>
               </a>
             </div>
             <div class="card bg-transparent index-hero-right-services-box-animation ">
               <a href="./contract.php" class="text-black w-100 h-100">
-                <div class="align-items-center d-flex flex-column py-3 rounded-4 shadow text-center index-hero-right-services-box-shadow-animation index-hero-right-services-box-height-responsive">
+                <div class="align-items-center d-flex flex-column index-hero-right-services-box-height-responsive index-hero-right-services-box-shadow-animation index-hero-right-services-box-bg index-hero-right-services-box-radius text-center ">
                   <div class=" index-service-img-width-height-responsive">
-                    <span class="index-service-img-width-height-responsive index-service-img-width-height-responsive-7"></span>
+                    <span class="index-service-img-width-height-responsive index-service-img-width-height-responsive-9"></span>
                   </div>
                   <div class="align-items-center card-body d-flex justify-content-center m-0 p-0 py-3">
-                    <h5 class="card-title fs-5 fw-bold m-0 px-2">Warranty & Service Contract</h5>
+                    <h5 class="card-title fs-5 fw-normal m-0 px-2">Warranty & Service Contract</h5>
                   </div>
                 </div>
               </a>
             </div>
             <div class="card bg-transparent index-hero-right-services-box-animation ">
               <a href="./road-side-assistance.php" class="text-black w-100 h-100">
-                <div class="align-items-center d-flex flex-column py-3 rounded-4 shadow text-center index-hero-right-services-box-shadow-animation index-hero-right-services-box-height-responsive">
+                <div class="align-items-center d-flex flex-column index-hero-right-services-box-height-responsive index-hero-right-services-box-shadow-animation index-hero-right-services-box-bg index-hero-right-services-box-radius text-center ">
                   <div class=" index-service-img-width-height-responsive">
-                    <span class="index-service-img-width-height-responsive index-service-img-width-height-responsive-8"></span>
+                    <span class="index-service-img-width-height-responsive index-service-img-width-height-responsive-7"></span>
                   </div>
                   <div class="align-items-center card-body d-flex justify-content-center m-0 p-0 py-3">
-                    <h5 class="card-title fs-5 fw-bold m-0 px-2">Car Recovery</h5>
+                    <h5 class="card-title fs-5 fw-normal m-0 px-2">Car Recovery</h5>
                   </div>
                 </div>
               </a>
             </div>
             <div class="card bg-transparent index-hero-right-services-box-animation ">
-              <a href="./general-repair.php" class="text-black w-100 h-100">
-                <div class="align-items-center d-flex flex-column py-3 rounded-4 shadow text-center index-hero-right-services-box-shadow-animation index-hero-right-services-box-height-responsive">
+              <a href="./Promotions.php" class="text-black w-100 h-100">
+                <div class="align-items-center d-flex flex-column index-hero-right-services-box-height-responsive index-hero-right-services-box-shadow-animation index-hero-right-services-box-bg index-hero-right-services-box-radius text-center ">
                   <div class=" index-service-img-width-height-responsive">
-                    <span class="index-service-img-width-height-responsive index-service-img-width-height-responsive-6"></span>
+                    <span class="index-service-img-width-height-responsive index-service-img-width-height-responsive-8"></span>
                   </div>
                   <div class="align-items-center card-body d-flex justify-content-center m-0 p-0 py-3">
-                    <h5 class="card-title fs-5 fw-bold m-0 px-2">Software Repair & Update</h5>
+                    <h5 class="card-title fs-5 fw-normal m-0 px-2">Offers</h5>
                   </div>
                 </div>
               </a>
             </div>
-          </div>
 
+          </div>
         </div>
       </div>
     </div>
@@ -238,9 +237,6 @@
 </section>
 <!-- About us Section End  -->
 
-
-
-
 <!-- experience-section Starts Here  -->
 <section class="banner-section experience-section section bg-img-cover img-no-repeat w-100 position-center ">
   <div class="container">
@@ -266,7 +262,7 @@
 <!-- experience-section Ends Here  -->
 
 <!-- gateway-section Start Here  -->
-<?php include('gateway.php'); ?>
+<?php include('gateway-new.php'); ?>
 <!-- gateway-section Ends Here  -->
 
 
@@ -466,9 +462,7 @@
   </div>
 </section>
 <!-- offers-section Ends Here  -->
-<!-- Brand SectionStart -->
-<?php include('brands.php'); ?>
-<!-- brand-section Starts Here  -->
+
 <!-- On Desktop  -->
 <section class="brand-section d-lg-block d-none section">
   <div class="container">
@@ -624,4 +618,4 @@
 
 
 
-<?php include('f.php'); ?>
+<?php include('f-new.php'); ?>

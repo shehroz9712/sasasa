@@ -373,4 +373,4 @@
 
 <!-- sticky-icons Section End -->
 
-<!-- Body Content End Here --> <?php include('f.php'); ?>
+<!-- Body Content End Here --> <?php include('f-new.php'); ?>
