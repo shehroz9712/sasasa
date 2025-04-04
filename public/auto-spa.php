@@ -99,7 +99,7 @@
 
 <!--  -->
 
-<?php include('gateway.php'); ?>
+<?php include('gateway-new.php'); ?>
 
 
 <!--  -->

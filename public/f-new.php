@@ -346,7 +346,7 @@
             <div class="col-lg-3 col-sm-4 col-xs-12">
                 <div class="single_footer">
                     <h4>Services</h4>
-                    <ul class="row row-cols-2 lh-sm g-3 fw-semibold">
+                    <ul class="row row-cols-2 lh-sm g-3 fw-normal">
                         <li class="p-0"><a href="/auto-spa.php">Auto Spa</a></li>
                         <li class="p-0"><a href="/car-inspection.php">Car Inspection</a></li>
                         <li class="p-0"><a href="/car-wrapping.php">Car Wrapping</a></li>
@@ -367,7 +367,7 @@
             <div class="col-lg-3 col-sm-4 col-xs-12">
                 <div class="single_footer single_footer_address">
                     <h4>Page Link</h4>
-                    <ul class="row row-cols-2 lh-sm g-3 fw-semibold">
+                    <ul class="row row-cols-2 lh-sm g-3 fw-normal">
                         <li class="p-0"><a href="/contract.php">Annual Contract</a></li>
                         <li class="p-0"><a href="/Promotions.php">Ongoing Promotions</a></li>
                         <li class="p-0"><a href="#">Services</a></li>

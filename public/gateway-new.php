@@ -65,100 +65,100 @@
 </style>
 <section class="container">
     <div class="px-3 row row-cols-2 row-cols-md-4">
-        <div class="card bg-transparent index-hero-right-services-box-animation gateway-height-responsive">
+        <div class="card bg-transparent index-hero-right-services-box-animation gateway-height-responsive border-0">
             <a href="./general-repair.php" class="text-black w-100 h-100">
                 <div class="align-items-center d-flex flex-column index-hero-right-services-box-height-responsive index-hero-right-services-box-shadow-animation index-hero-right-services-box-bg  text-center ">
                     <div class=" index-service-img-width-height-responsive gateway-service-img-width-height-responsive">
                         <span class="index-service-img-width-height-responsive gateway-img-width-height-responsive-1  "></span>
                     </div>
                     <div class="align-items-center card-body d-flex justify-content-center m-0 p-0 py-3">
-                        <h5 class="card-title fs-5 fw-normal m-0 px-2">Transmission Repair</h5>
+                        <h5 class="card-title fs-5 fw-normal m-0 px-2 pt-2 pt-md-0">Transmission Repair</h5>
                     </div>
                 </div>
             </a>
         </div>
-        <div class="card bg-transparent index-hero-right-services-box-animation gateway-height-responsive">
+        <div class="card bg-transparent index-hero-right-services-box-animation gateway-height-responsive border-0">
             <a href="./general-repair.php" class="text-black w-100 h-100">
                 <div class="align-items-center d-flex flex-column index-hero-right-services-box-height-responsive index-hero-right-services-box-shadow-animation index-hero-right-services-box-bg  text-center ">
                     <div class=" index-service-img-width-height-responsive gateway-service-img-width-height-responsive">
                         <span class="index-service-img-width-height-responsive gateway-img-width-height-responsive-2"></span>
                     </div>
                     <div class="align-items-center card-body d-flex justify-content-center m-0 p-0 py-3">
-                        <h5 class="card-title fs-5 fw-normal m-0 px-2">Suspension Repair</h5>
+                        <h5 class="card-title fs-5 fw-normal m-0 px-2 pt-2 pt-md-0">Suspension Repair</h5>
                     </div>
                 </div>
             </a>
         </div>
-        <div class="card bg-transparent index-hero-right-services-box-animation gateway-height-responsive">
+        <div class="card bg-transparent index-hero-right-services-box-animation gateway-height-responsive border-0">
             <a href="./tinting.php" class="text-black w-100 h-100">
                 <div class="align-items-center d-flex flex-column index-hero-right-services-box-height-responsive index-hero-right-services-box-shadow-animation index-hero-right-services-box-bg text-center ">
                     <div class=" index-service-img-width-height-responsive gateway-service-img-width-height-responsive">
                         <span class="index-service-img-width-height-responsive gateway-img-width-height-responsive-3"></span>
                     </div>
                     <div class="align-items-center card-body d-flex justify-content-center m-0 p-0 py-3">
-                        <h5 class="card-title fs-5 fw-normal m-0 px-2">Car Tuning</h5>
+                        <h5 class="card-title fs-5 fw-normal m-0 px-2 pt-2 pt-md-0">Car Tuning</h5>
                     </div>
                 </div>
             </a>
         </div>
-        <div class="card bg-transparent index-hero-right-services-box-animation gateway-height-responsive">
+        <div class="card bg-transparent index-hero-right-services-box-animation gateway-height-responsive border-0">
             <a href="./general-repair.php" class="text-black w-100 h-100">
                 <div class="align-items-center d-flex flex-column index-hero-right-services-box-height-responsive index-hero-right-services-box-shadow-animation index-hero-right-services-box-bg text-center ">
                     <div class=" index-service-img-width-height-responsive gateway-service-img-width-height-responsive">
                         <span class="index-service-img-width-height-responsive gateway-img-width-height-responsive-4"></span>
                     </div>
                     <div class="align-items-center card-body d-flex justify-content-center m-0 p-0 py-3">
-                        <h5 class="card-title fs-5 fw-normal m-0 px-2">Car AC Repair</h5>
+                        <h5 class="card-title fs-5 fw-normal m-0 px-2 pt-2 pt-md-0">Car AC Repair</h5>
                     </div>
                 </div>
             </a>
         </div>
 
 
-        <div class="card bg-transparent index-hero-right-services-box-animation py-4 gateway-height-responsive-2">
+        <div class="card bg-transparent index-hero-right-services-box-animation py-4 gateway-height-responsive-2 border-0">
             <a href="./tinting.php" class="text-black w-100 h-100">
                 <div class="align-items-center d-flex flex-column index-hero-right-services-box-height-responsive index-hero-right-services-box-shadow-animation index-hero-right-services-box-bg index-hero-right-services-box-radius  text-center ">
                     <div class=" index-service-img-width-height-responsive gateway-service-img-width-height-responsive">
                         <span class="index-service-img-width-height-responsive gateway-img-width-height-responsive-5"></span>
                     </div>
                     <div class="align-items-center card-body d-flex justify-content-center m-0 p-0 py-3">
-                        <h5 class="card-title fs-5 fw-normal m-0 px-2">Car Painting</h5>
+                        <h5 class="card-title fs-5 fw-normal m-0 px-2 pt-2 pt-md-0">Car Painting</h5>
                     </div>
                 </div>
             </a>
         </div>
-        <div class="card bg-transparent index-hero-right-services-box-animation py-4 gateway-height-responsive-2">
+        <div class="card bg-transparent index-hero-right-services-box-animation py-4 gateway-height-responsive-2 border-0">
             <a href="./body-shop.php" class="text-black w-100 h-100">
                 <div class="align-items-center d-flex flex-column index-hero-right-services-box-height-responsive index-hero-right-services-box-shadow-animation index-hero-right-services-box-bg  index-hero-right-services-box-radius text-center ">
                     <div class=" index-service-img-width-height-responsive gateway-service-img-width-height-responsive">
                         <span class="index-service-img-width-height-responsive gateway-img-width-height-responsive-6"></span>
                     </div>
                     <div class="align-items-center card-body d-flex justify-content-center m-0 p-0 py-3">
-                        <h5 class="card-title fs-5 fw-normal m-0 px-2">Car Bodyshop</h5>
+                        <h5 class="card-title fs-5 fw-normal m-0 px-2 pt-2 pt-md-0">Car Bodyshop</h5>
                     </div>
                 </div>
             </a>
         </div>
-        <div class="card bg-transparent index-hero-right-services-box-animation py-4 gateway-height-responsive-2">
+        <div class="card bg-transparent index-hero-right-services-box-animation py-4 gateway-height-responsive-2 border-0">
             <a href="./tinting.php" class="text-black w-100 h-100">
                 <div class="align-items-center d-flex flex-column index-hero-right-services-box-height-responsive index-hero-right-services-box-shadow-animation index-hero-right-services-box-bg  index-hero-right-services-box-radius text-center ">
                     <div class=" index-service-img-width-height-responsive gateway-service-img-width-height-responsive">
                         <span class="index-service-img-width-height-responsive gateway-img-width-height-responsive-7"></span>
                     </div>
                     <div class="align-items-center card-body d-flex justify-content-center m-0 p-0 py-3">
-                        <h5 class="card-title fs-5 fw-normal m-0 px-2">Car Restoration</h5>
+                        <h5 class="card-title fs-5 fw-normal m-0 px-2 pt-2 pt-md-0">Car Restoration</h5>
                     </div>
                 </div>
             </a>
         </div>
-        <div class="card bg-transparent index-hero-right-services-box-animation py-4 gateway-height-responsive-2">
+        <div class="card bg-transparent index-hero-right-services-box-animation py-4 gateway-height-responsive-2 border-0">
             <a href="./tinting.php" class="text-black w-100 h-100">
                 <div class="align-items-center d-flex flex-column index-hero-right-services-box-height-responsive index-hero-right-services-box-shadow-animation index-hero-right-services-box-bg  index-hero-right-services-box-radius text-center ">
                     <div class=" index-service-img-width-height-responsive gateway-service-img-width-height-responsive">
                         <span class="index-service-img-width-height-responsive gateway-img-width-height-responsive-8"></span>
                     </div>
                     <div class="align-items-center card-body d-flex justify-content-center m-0 p-0 py-3">
-                        <h5 class="card-title fs-5 fw-normal m-0 px-2">Car Tint</h5>
+                        <h5 class="card-title fs-5 fw-normal m-0 px-2 pt-2 pt-md-0">Car Tint</h5>
                     </div>
                 </div>
             </a>

@@ -74,7 +74,7 @@
 
 <!-- Images Section End -->
 <!-- gateway-section Start Here  -->
-<?php include('gateway.php'); ?>
+<?php include('gateway-new.php'); ?>
 <!-- gateway-section Ends Here  -->
 
 <!-- sticky-icons Section Start -->

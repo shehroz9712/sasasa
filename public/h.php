@@ -1508,11 +1508,7 @@
       </li>
       <li class="list-item align-self-baseline"><a href="Promotions.php"
           class="header-link text-decoration-none level-8 primary-semibold-font dark-color link-here">Ongoing Promotions</a>
-      </li>
-      <!-- <li class="single-item align-self-baseline"><a href="#"
-          class="header-link categoryBtn text-decoration-none level-8 primary-semibold-font dark-color link-here">
-          Brands <i class="fa-solid fa-angle-down"></i></a>
-      </li> -->
+      </li>   
       <li class="single-item align-self-baseline"><a href="#"
           class="header-link categoryBtn-service text-decoration-none level-8 primary-semibold-font dark-color link-here">
           Services <i class="fa-solid fa-angle-down"></i></a>
@@ -1521,8 +1517,7 @@
           class="header-link text-decoration-none level-8 primary-semibold-font dark-color link-here">Body
           Shop</a></li>
       <li class="list-item align-self-baseline"><a href="blogs.php"
-          class="header-link text-decoration-none level-8 primary-semibold-font dark-color link-here">Blog
-          us</a></li>
+          class="header-link text-decoration-none level-8 primary-semibold-font dark-color link-here">Blogs</a></li>
       <li class="list-item align-self-baseline"><a href="about-us.php"
           class="header-link text-decoration-none level-8 primary-semibold-font dark-color link-here">About
           Us

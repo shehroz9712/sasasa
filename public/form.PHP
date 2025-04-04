@@ -30,13 +30,13 @@
         <option value="Car-Inspection">Car Inspection</option>
         <option value="Car-Wrapping">Car Wrapping</option>
         <option value="Ceramic">Ceramic</option>
-        <option value="Chinese-Car">Chinese Car</option>
+
         <option value="Electric-Repair">Electric Repair</option>
         <option value="Extended-Warranty">Extended Warranty</option>
         <option value="General-Repair">General Repair</option>
         <option value="Major">Major Services</option>
         <option value="Minor">Minor Services</option>
-        <option value="Plate-Number">Plate Number</option>
+
         <option value="Road-Side-Assistance">Road Side Assistance</option>
         <option value="Tinting">Tinting</option>
         <option value="Tinting">Others</option>

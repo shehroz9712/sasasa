@@ -81,17 +81,18 @@
           <div class="banner-content-here pt-2 wow animate__animated animate__fadeInDown">
             <figure class="position-relative">
               <img src="assets/img/banner-img.png" alt="" class="img-fluid">
-              <!-- <div class="banner-img-content text-center position-absolute top-0 left-0 right-0 p-5"> -->
-              <div class="banner-img-content left-0 position-absolute px-4 py-3 right-0 text-center top-0 p-md-5">
-                <h2 class="level-1 heading-font extra-color-2">
-                  <span class="secondary-color d-block"> Claim Our </span> Latest Offer
-                </h2>
-                <a href="https://wa.me/971547935400" target="_blank" class="btn fs-6">Avail Your Discount</a>
-              </div>
-              <div class="banner-car-wrap position-absolute bottom-0">
-                <figure>
-                  <img src="assets/img/banner-car-img.png" alt="" class="img-fluid">
-                </figure>
+              <div class="">
+                <div class="banner-img-content d-flex flex-column gap-1 gap-md-4 left-0 mt-md-0 p-0 position-absolute pt-3 pt-md-5 right-0 text-center top-0">
+                  <h2 class="level-1 heading-font extra-color-2 m-0">
+                    <span class="secondary-color d-block"> Claim Our </span> Latest Offer
+                  </h2>
+                  <a href="https://wa.me/971547935400" target="_blank" class="btn fs-6 mx-auto w-md-50 w-75">Avail Your Discount</a>
+                </div>
+                <div class="banner-car-wrap position-absolute bottom-0">
+                  <figure>
+                    <img src="assets/img/banner-car-img.png" alt="" class="img-fluid">
+                  </figure>
+                </div>
               </div>
             </figure>
           </div>
@@ -455,7 +456,7 @@
             </h2>
           </div>
           <p class="level-7 primary-light-font extra-color-5 col-lg-7 col-md-9">Enjoy exclusive discounts and exceptional services, ensuring your elite vehicle receives the best care and expert maintenance.</p>
-          <a href="https://wa.me/971547935400" target="_blank" class="btn">Get Started Today</a>
+          <a href="https://wa.me/971547935400" target="_blank" class="btn fs-6">Get Started Today</a>
         </div>
       </div>
     </div>
